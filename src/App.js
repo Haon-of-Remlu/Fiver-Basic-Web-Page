@@ -4,21 +4,21 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="Octocat.png" className="App-logo" alt="logo" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/US_%245_Series_2006_obverse.jpg" className="App-logo" alt="logo" />
         <p>
-          GitHub Codespaces <span className="heart">♥️</span> React
+          Fiver <span className="Money">💲</span> Fiver
         </p>
         <p className="small">
-          Edit <code>src/App.js</code> and save to reload.
+          Click the link below to find out more
         </p>
         <p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://www.patreon.com/user?u=83561883"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            $5?
           </a>
         </p>
       </header>
